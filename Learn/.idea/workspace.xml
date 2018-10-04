@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15cc6577-1367-4e41-87c8-97e983bd2b78" name="Default Changelist" comment="" />
+    <list default="true" id="15cc6577-1367-4e41-87c8-97e983bd2b78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/struct.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/struct.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,39 +31,41 @@
     <session id="-722982760">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="58" />
+          <entry key="go" value="60" />
           <entry key="in" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="58" />
+          <entry key="Go" value="60" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="13972" />
+          <entry key="go" value="14625" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="13972" />
+          <entry key="Go" value="14625" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -75,19 +82,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/file/maze.in">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/maze.go">
+        <entry file="file://$PROJECT_DIR$/src/main/struct.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
-              <folding>
-                <element signature="e#14#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="486">
+              <caret line="116" column="23" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -112,7 +111,7 @@
   </component>
   <component name="GOROOT" path="D:\Study\Software\Golang\go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/github.com/Unknwon/com" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GoLibraries">
     <option name="urls">
@@ -137,7 +136,6 @@
         <option value="$PROJECT_DIR$/src/main/for.go" />
         <option value="$PROJECT_DIR$/src/main/func.go" />
         <option value="$PROJECT_DIR$/src/main/pointer.go" />
-        <option value="$PROJECT_DIR$/src/main/slice.go" />
         <option value="$PROJECT_DIR$/src/main/map.go" />
         <option value="$PROJECT_DIR$/src/main/string.go" />
         <option value="$PROJECT_DIR$/src/main/array.go" />
@@ -146,7 +144,6 @@
         <option value="$PROJECT_DIR$/src/tree/nodeEx.go" />
         <option value="$PROJECT_DIR$/src/tree/queue.go" />
         <option value="$PROJECT_DIR$/src/queue.go" />
-        <option value="$PROJECT_DIR$/src/main/struct.go" />
         <option value="$PROJECT_DIR$/src/queue/queue.go" />
         <option value="$PROJECT_DIR$/src/main/mockRetriever.go" />
         <option value="$PROJECT_DIR$/src/retriever/realRetriever.go" />
@@ -162,6 +159,8 @@
         <option value="$PROJECT_DIR$/src/main/select.go" />
         <option value="$PROJECT_DIR$/src/main/atomic.go" />
         <option value="$PROJECT_DIR$/src/main/maze.go" />
+        <option value="$PROJECT_DIR$/src/main/slice.go" />
+        <option value="$PROJECT_DIR$/src/main/struct.go" />
       </list>
     </option>
   </component>
@@ -172,10 +171,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="438" />
-    <option name="y" value="36" />
-    <option name="width" value="1724" />
-    <option name="height" value="1039" />
+    <option name="x" value="435" />
+    <option name="y" value="33" />
+    <option name="width" value="1727" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -266,22 +265,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build maze.go">
+  <component name="RunManager" selected="Go Build.go build struct.go">
     <configuration name="go build atomic.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Learn" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/src/main/atomic.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build channel2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Learn" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/main/channel2.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -312,20 +302,28 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build struct.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Learn" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/main/struct.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Go Build.go build channel.go" />
-      <item itemvalue="Go Build.go build channel2.go" />
       <item itemvalue="Go Build.go build select.go" />
       <item itemvalue="Go Build.go build atomic.go" />
       <item itemvalue="Go Build.go build maze.go" />
+      <item itemvalue="Go Build.go build struct.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build struct.go" />
         <item itemvalue="Go Build.go build maze.go" />
         <item itemvalue="Go Build.go build atomic.go" />
         <item itemvalue="Go Build.go build select.go" />
         <item itemvalue="Go Build.go build channel.go" />
-        <item itemvalue="Go Build.go build channel2.go" />
       </list>
     </recent_temporary>
   </component>
@@ -362,12 +360,12 @@
       <window_info anchor="right" id="Database" order="3" weight="0.32983872" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988662" visible="true" weight="0.26935485" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988662" weight="0.26935485" />
       <window_info id="Structure" order="1" sideWeight="0.5011338" side_tool="true" weight="0.28387097" />
       <window_info id="Favorites" order="2" sideWeight="0.5011338" side_tool="true" weight="0.28387097" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32786885" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28353658" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28353658" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3713851" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -387,6 +385,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/github.com/Unknwon/com" />
+      <path value="$PROJECT_DIR$/src/github.com/gpmgo/gopm" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/run.go" />
@@ -460,13 +464,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/slice.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/map.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -494,13 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="133" column="5" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/struct.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1672">
-          <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -532,9 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="e#19#70#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -549,9 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="79" column="22" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="22" />
-          <folding>
-            <element signature="e#14#44#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -573,9 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
-          <folding>
-            <element signature="e#14#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -590,9 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -603,16 +581,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/channel2.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/channel2.go" />
     <entry file="file://D:/Study/Software/Golang/go/src/sync/waitgroup.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -624,9 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-86">
           <caret line="86" selection-start-line="86" selection-end-line="86" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -634,9 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -651,14 +614,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/file/maze.in">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/queue/queue.go">
       <provider selected="true" editor-type-id="text-editor">
@@ -667,13 +624,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/file/maze.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/maze.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
-          <folding>
-            <element signature="e#14#37#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/slice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-506">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/struct.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="116" column="23" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
         </state>
       </provider>
     </entry>

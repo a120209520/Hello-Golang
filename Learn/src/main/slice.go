@@ -14,7 +14,7 @@ func slice() {
 
 func editSlice(arr []int) {
 	fmt.Println("--------002.editSlice---------")
-	//slice是对arr的一个视图，会实际修改slice
+	//slice是对arr的一个视图，会实际修改arr
 	arr[0] = 100
 }
 
