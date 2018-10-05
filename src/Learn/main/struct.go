@@ -1,9 +1,9 @@
 package main
 
 import (
+	"Learn/tree"
 	"fmt"
-	"queue"
-	"tree"
+	"Learn/queue"
 )
 
 func test01() {

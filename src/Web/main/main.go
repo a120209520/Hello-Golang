@@ -1,7 +1,7 @@
 package main
 
-import "gochat"
+import "Web/gochat"
 
 func main() {
-	//gochat.Main()
+	gochat.Main()
 }
