@@ -1,5 +1,7 @@
 package main
 
-func main() {
+import "gochat"
 
+func main() {
+	gochat.Main()
 }
